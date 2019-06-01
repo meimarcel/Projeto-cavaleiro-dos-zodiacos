@@ -1,0 +1,12 @@
+1,50,Áries
+2,55,Touro
+3,60,Gêmeos
+4,70,Câncer
+5,75,Leão
+6,80,Virgem
+7,85,Libra
+8,90,Escorpião
+9,95,Sagitário
+10,100,Capricórnio
+11,110,Aquário
+12,120,Peixes
